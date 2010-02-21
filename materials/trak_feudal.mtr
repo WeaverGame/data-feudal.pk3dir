@@ -1,0 +1,296 @@
+models/mapobjects/feudal_blocks/112
+{
+    qer_editorimage    models/mapobjects/feudal_blocks/112a.png
+    
+	diffusemap         models/mapobjects/feudal_blocks/112a.png
+	bumpmap            models/mapobjects/feudal_blocks/112a_nm.png
+}
+
+models/mapobjects/feudal_blocks/141
+{
+    qer_editorimage    models/mapobjects/feudal_blocks/141.png
+    
+	diffusemap         models/mapobjects/feudal_blocks/141.png
+	bumpmap            models/mapobjects/feudal_blocks/141_nm.png
+}
+
+models/mapobjects/feudal/arch
+{
+    qer_editorimage    models/mapobjects/feudal/arch.png
+    
+	diffusemap         models/mapobjects/feudal/arch.png
+	bumpmap            models/mapobjects/feudal/arch_nm.png
+}
+
+
+
+models/mapobjects/feudal/baseglass
+{
+	qer_editorImage		models/mapobjects/feudal/baseglass.png
+	xmap_surfaceLight	8000
+	xmap_lightSubdivide	16
+	xmap_lightImage		models/mapobjects/feudal/baseglass_blend.png
+	xmap_lightRGB 0.8 0.9 1
+	diffusemap         models/mapobjects/feudal/baseglass.png
+	specularmap	    models/mapobjects/feudal/baseglass.png
+	bumpmap            models/mapobjects/feudal/baseglass_nm.png
+	{
+		stage		glowMap
+		map		models/mapobjects/feudal/baseglass_blend.png
+		blend		add
+	}
+}
+
+
+models/mapobjects/feudal/basewall1a
+{
+    qer_editorimage    models/mapobjects/feudal/basewall1a.png
+    
+	diffusemap         models/mapobjects/feudal/basewall1a.png
+	specularmap	    	models/mapobjects/feudal/basewall1a_s.png
+	bumpmap            models/mapobjects/feudal/basewall1a_nm.png
+}
+
+models/mapobjects/feudal/basewall1b
+{
+    qer_editorimage    models/mapobjects/feudal/basewall1b.png
+    
+	diffusemap         models/mapobjects/feudal/basewall1b.png
+	specularmap	    	models/mapobjects/feudal/basewall1b_s.png
+	bumpmap            models/mapobjects/feudal/basewall1b_nm.png
+}
+
+models/mapobjects/feudal/basewall1c
+{
+    qer_editorimage    models/mapobjects/feudal/basewall1c.png
+    
+	diffusemap         models/mapobjects/feudal/basewall1c.png
+	specularmap	    	models/mapobjects/feudal/basewall1c_s.png
+	bumpmap            models/mapobjects/feudal/basewall1c_nm.png
+}
+
+models/mapobjects/feudal/beam
+{
+    qer_editorimage    models/mapobjects/feudal/beam.png
+    
+	diffusemap         models/mapobjects/feudal/beam.png
+	specularmap	    models/mapobjects/feudal/beam_s.png
+	bumpmap            models/mapobjects/feudal/beam_nm.png
+}
+
+models/mapobjects/feudal/bridge
+{
+    qer_editorimage    models/mapobjects/feudal/bridge.png
+    
+	diffusemap         models/mapobjects/feudal/bridge.png
+	bumpmap            models/mapobjects/feudal/bridge_nm.png
+}
+
+models/mapobjects/feudal/cofferedceil1
+{
+    qer_editorimage    models/mapobjects/feudal/cofferedceil1.png
+    
+	diffusemap         models/mapobjects/feudal/cofferedceil1.png
+	bumpmap            models/mapobjects/feudal/cofferedceil1_nm.png
+}
+
+models/mapobjects/feudal/cofferedceil1a
+{
+    qer_editorimage    models/mapobjects/feudal/cofferedceil1a.png
+    
+	diffusemap         models/mapobjects/feudal/cofferedceil1a.png
+	bumpmap            models/mapobjects/feudal/cofferedceil1a_nm.png
+}
+
+models/mapobjects/feudal/door
+{
+    qer_editorimage    models/mapobjects/feudal/door.png
+    
+	diffusemap         models/mapobjects/feudal/door.png
+	specularmap	    	models/mapobjects/feudal/door_s.png
+	bumpmap            models/mapobjects/feudal/door_nm.png
+}
+
+
+
+models/mapobjects/feudal/floorboards
+{
+    qer_editorimage    models/mapobjects/feudal/floorboards.png
+    
+	diffusemap         models/mapobjects/feudal/floorboards.png
+	bumpmap            models/mapobjects/feudal/floorboards_nm.png
+}
+
+
+models/mapobjects/feudal/gen_strip1
+{
+    qer_editorimage    models/mapobjects/feudal/gen_strip1.png
+    
+	diffusemap         models/mapobjects/feudal/gen_strip1.png
+	bumpmap            models/mapobjects/feudal/gen_strip1_nm.png
+}
+
+models/mapobjects/feudal/insecarch
+{
+    qer_editorimage    models/mapobjects/feudal/insecarch.png
+    
+	diffusemap         models/mapobjects/feudal/insecarch.png
+	specularmap	    	models/mapobjects/feudal/insecarch_s.png
+	bumpmap            models/mapobjects/feudal/insecarch_nm.png
+}
+
+models/mapobjects/feudal/insecshortwall1
+{
+    qer_editorimage    models/mapobjects/feudal/insecshortwall1.png
+    
+	diffusemap         models/mapobjects/feudal/insecshortwall1.png
+	specularmap	    	models/mapobjects/feudal/insecshortwall1_s.png
+	bumpmap            models/mapobjects/feudal/insecshortwall1_nm.png
+}
+
+models/mapobjects/feudal/midarch1
+{
+    qer_editorimage    models/mapobjects/feudal/midarch1.png
+    
+	diffusemap         models/mapobjects/feudal/midarch1.png
+	specularmap	    	models/mapobjects/feudal/midarch1_s.png
+	bumpmap            models/mapobjects/feudal/midarch1_nm.png
+}
+
+models/mapobjects/feudal/moatedge
+{
+    qer_editorimage    models/mapobjects/feudal/moatedge.png
+    
+	diffusemap         models/mapobjects/feudal/moatedge.png
+	specularmap	    	models/mapobjects/feudal/moatedge_s.png
+	bumpmap            models/mapobjects/feudal/moatedge_nm.png
+}
+
+models/mapobjects/feudal/pedestal
+{
+    qer_editorimage    models/mapobjects/feudal/pedestal.png
+    
+	diffusemap         models/mapobjects/feudal/pedestal.png
+	bumpmap            models/mapobjects/feudal/statue1_nm.png
+}
+
+models/mapobjects/feudal/pillar1
+{
+    qer_editorimage    models/mapobjects/feudal/pillar1.png
+    
+	diffusemap         models/mapobjects/feudal/pillar1.png
+	specularmap	    	models/mapobjects/feudal/pillar1_s.png
+	bumpmap            models/mapobjects/feudal/pillar1_nm.png
+}
+
+models/mapobjects/feudal/stairs1
+{
+    qer_editorimage    models/mapobjects/feudal/stairs1.png
+    
+	diffusemap         models/mapobjects/feudal/stairs1.png
+	specularmap	    	models/mapobjects/feudal/stairs1_s.png
+	bumpmap            models/mapobjects/feudal/stairs1_nm.png
+}
+
+models/mapobjects/feudal/statue1
+{
+    qer_editorimage    models/mapobjects/feudal/statue1.png
+    
+	diffusemap         models/mapobjects/feudal/statue1.png
+	bumpmap            models/mapobjects/feudal/statue1_nm.png
+}
+
+models/mapobjects/feudal/tower
+{
+    qer_editorimage    models/mapobjects/feudal/tower.png
+    
+	diffusemap         models/mapobjects/feudal/tower.png
+	bumpmap            models/mapobjects/feudal/tower_nm.png
+}
+
+models/mapobjects/feudal/wall1
+{
+    qer_editorimage    models/mapobjects/feudal/wall1.png
+    
+	diffusemap         models/mapobjects/feudal/wall1.png
+	bumpmap            models/mapobjects/feudal/wall1_nm.png
+}
+
+
+models/mapobjects/feudal/wallsec1a
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec1a.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec1a.png
+	bumpmap            models/mapobjects/feudal/wallsec1a_nm.png
+}
+
+models/mapobjects/feudal/wallsec1b
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec1b.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec1b.png
+	bumpmap            models/mapobjects/feudal/wallsec1b_nm.png
+}
+
+models/mapobjects/feudal/wallsecarch
+{
+    qer_editorimage    models/mapobjects/feudal/wallsecarch.png
+    
+	diffusemap         models/mapobjects/feudal/wallsecarch.png
+	bumpmap            models/mapobjects/feudal/wallsecarch_nm.png
+}
+
+
+models/mapobjects/feudal/wallsec1roof1
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec1roof1.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec1roof1.png
+	specularmap	    models/mapobjects/feudal/wallsec1roof1_s.png
+	bumpmap            models/mapobjects/feudal/wallsec1roof1_nm.png
+}
+
+models/mapobjects/feudal/wallsec2a
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec2a.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec2a.png
+	bumpmap            models/mapobjects/feudal/wallsec2a_nm.png
+}
+
+models/mapobjects/feudal/wallsec2b
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec2b.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec2b.png
+	bumpmap            models/mapobjects/feudal/wallsec2b_nm.png
+}
+
+models/mapobjects/feudal/wallsec2c
+{
+    qer_editorimage    models/mapobjects/feudal/wallsec2c.png
+    
+	diffusemap         models/mapobjects/feudal/wallsec2c.png
+	bumpmap            models/mapobjects/feudal/wallsec2c_nm.png
+}
+
+models/mapobjects/feudal/wallshield
+{
+    qer_editorimage    models/mapobjects/feudal/wallshield.png
+    
+	diffusemap         models/mapobjects/feudal/wallshield.png
+	specularmap	    	models/mapobjects/feudal/wallshield_s.png
+	bumpmap            models/mapobjects/feudal/wallshield_nm.png
+}
+
+
+models/mapobjects/feudal/windowframe
+{
+    qer_editorimage    models/mapobjects/feudal/windowframe.png
+    
+	diffusemap         models/mapobjects/feudal/windowframe.png
+	specularmap	    models/mapobjects/feudal/NULL_nm.png
+	bumpmap            models/mapobjects/feudal/windowframe.png
+}
+
