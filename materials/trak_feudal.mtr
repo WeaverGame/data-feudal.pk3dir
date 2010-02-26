@@ -46,7 +46,7 @@ models/mapobjects/feudal/basewall1a
 {
     qer_editorimage    models/mapobjects/feudal/basewall1a.png
     
-	diffusemap         models/mapobjects/feudal/basewall1a.png
+	diffusemap        models/mapobjects/feudal/basewall1a.png
 	specularmap	    	models/mapobjects/feudal/basewall1a_s.png
 	bumpmap            models/mapobjects/feudal/basewall1a_nm.png
 }
@@ -84,6 +84,15 @@ models/mapobjects/feudal/bridge
     
 	diffusemap         models/mapobjects/feudal/bridge.png
 	bumpmap            models/mapobjects/feudal/bridge_nm.png
+}
+
+models/mapobjects/feudal/ceilarch1
+{
+    qer_editorimage    models/mapobjects/feudal/ceilarch1.png
+    
+	diffusemap         models/mapobjects/feudal/ceilarch1.png
+	specularmap	    	models/mapobjects/feudal/ceilarch1_s.png
+	bumpmap            models/mapobjects/feudal/ceilarch1_nm.png
 }
 
 models/mapobjects/feudal/cofferedceil1
@@ -139,6 +148,15 @@ models/mapobjects/feudal/insecarch
 	bumpmap            models/mapobjects/feudal/insecarch_nm.png
 }
 
+models/mapobjects/feudal/insecarch1
+{
+    qer_editorimage    models/mapobjects/feudal/insecarch1.png
+    
+	diffusemap         models/mapobjects/feudal/insecarch1.png
+	specularmap	    	models/mapobjects/feudal/insecarch1_s.png
+	bumpmap            models/mapobjects/feudal/insecarch1_nm.png
+}
+
 models/mapobjects/feudal/insecshortwall1
 {
     qer_editorimage    models/mapobjects/feudal/insecshortwall1.png
@@ -181,6 +199,15 @@ models/mapobjects/feudal/pillar1
 	diffusemap         models/mapobjects/feudal/pillar1.png
 	specularmap	    	models/mapobjects/feudal/pillar1_s.png
 	bumpmap            models/mapobjects/feudal/pillar1_nm.png
+}
+
+models/mapobjects/feudal/stairedge
+{
+    qer_editorimage    models/mapobjects/feudal/stairedge.png
+    
+	diffusemap         models/mapobjects/feudal/stairedge.png
+	specularmap	    	models/mapobjects/feudal/stairedge_s.png
+	bumpmap            models/mapobjects/feudal/stairedge_nm.png
 }
 
 models/mapobjects/feudal/stairs1
