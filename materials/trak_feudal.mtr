@@ -157,6 +157,16 @@ models/mapobjects/feudal/insecarch1
 	bumpmap            models/mapobjects/feudal/insecarch1_nm.png
 }
 
+models/mapobjects/feudal/inseccap2
+{
+    qer_editorimage    models/mapobjects/feudal/inseccap2.png
+    
+	diffusemap         models/mapobjects/feudal/inseccap2.png
+	specularmap	    	models/mapobjects/feudal/inseccap2_s.png
+	bumpmap            models/mapobjects/feudal/inseccap2_nm.png
+}
+
+
 models/mapobjects/feudal/insecshortwall1
 {
     qer_editorimage    models/mapobjects/feudal/insecshortwall1.png
