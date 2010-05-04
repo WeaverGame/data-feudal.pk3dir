@@ -69,6 +69,15 @@ models/mapobjects/feudal/basewall1c
 	bumpmap            models/mapobjects/feudal/basewall1c_nm.png
 }
 
+models/mapobjects/feudal/basewall1d
+{
+    qer_editorimage    models/mapobjects/feudal/basewall1d.png
+    
+	diffusemap         models/mapobjects/feudal/basewall1d.png
+	specularmap	    	models/mapobjects/feudal/basewall1d_s.png
+	bumpmap            models/mapobjects/feudal/basewall1d_nm.png
+}
+
 models/mapobjects/feudal/beam
 {
     qer_editorimage    models/mapobjects/feudal/beam.png
@@ -84,6 +93,24 @@ models/mapobjects/feudal/bridge
     
 	diffusemap         models/mapobjects/feudal/bridge.png
 	bumpmap            models/mapobjects/feudal/bridge_nm.png
+}
+
+models/mapobjects/feudal/cas_pillar1
+{
+    qer_editorimage    models/mapobjects/feudal/cas_pillar1.png
+    
+	diffusemap         models/mapobjects/feudal/cas_pillar1.png
+	specularmap	    	models/mapobjects/feudal/cas_pillar1_s.png
+	bumpmap            models/mapobjects/feudal/cas_pillar1_nm.png
+}
+
+models/mapobjects/feudal/cas_trim
+{
+    qer_editorimage    models/mapobjects/feudal/cas_trim.png
+    
+	diffusemap         models/mapobjects/feudal/cas_trim.png
+	specularmap	    	models/mapobjects/feudal/cas_trim_s.png
+	bumpmap            models/mapobjects/feudal/cas_trim_nm.png
 }
 
 models/mapobjects/feudal/ceilarch1
@@ -192,6 +219,15 @@ models/mapobjects/feudal/moatedge
 	diffusemap         models/mapobjects/feudal/moatedge.png
 	specularmap	    	models/mapobjects/feudal/moatedge_s.png
 	bumpmap            models/mapobjects/feudal/moatedge_nm.png
+}
+
+models/mapobjects/feudal/monument
+{
+    qer_editorimage    models/mapobjects/feudal/monument.png
+    
+	diffusemap         models/mapobjects/feudal/monument.png
+	specularmap	    	models/mapobjects/feudal/monument_s.png
+	bumpmap            models/mapobjects/feudal/monument_nm.png
 }
 
 models/mapobjects/feudal/pedestal
