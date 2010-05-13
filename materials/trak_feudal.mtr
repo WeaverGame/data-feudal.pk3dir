@@ -95,6 +95,14 @@ models/mapobjects/feudal/bridge
 	bumpmap            models/mapobjects/feudal/bridge_nm.png
 }
 
+models/mapobjects/feudal/cas_arch1
+{
+    qer_editorimage    models/mapobjects/feudal/cas_arch1.png
+    
+	diffusemap         models/mapobjects/feudal/cas_arch1.png
+	bumpmap            models/mapobjects/feudal/cas_arch1_nm.png
+}
+
 models/mapobjects/feudal/cas_pillar1
 {
     qer_editorimage    models/mapobjects/feudal/cas_pillar1.png
@@ -103,6 +111,16 @@ models/mapobjects/feudal/cas_pillar1
 	specularmap	    	models/mapobjects/feudal/cas_pillar1_s.png
 	bumpmap            models/mapobjects/feudal/cas_pillar1_nm.png
 }
+
+
+models/mapobjects/feudal/cas_stairs
+{
+    qer_editorimage    models/mapobjects/feudal/cas_stairs.png
+    
+	diffusemap         models/mapobjects/feudal/cas_stairs.png
+	bumpmap            models/mapobjects/feudal/cas_stairs_nm.png
+}
+
 
 models/mapobjects/feudal/cas_trim
 {
