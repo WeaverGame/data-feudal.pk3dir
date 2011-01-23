@@ -274,6 +274,16 @@ models/mapobjects/feudal/pillar1
 	bumpmap            models/mapobjects/feudal/pillar1_nm.png
 }
 
+models/mapobjects/feudal/plaster
+{
+    qer_editorimage    models/mapobjects/feudal/plaster.png
+    
+	diffusemap         models/mapobjects/feudal/plaster.png
+	specularmap	    	models/mapobjects/feudal/plaster_s.png
+	bumpmap            models/mapobjects/feudal/plaster_nm.png
+}
+
+
 models/mapobjects/feudal/stairedge
 {
     qer_editorimage    models/mapobjects/feudal/stairedge.png
@@ -307,6 +317,16 @@ models/mapobjects/feudal/tower
 	diffusemap         models/mapobjects/feudal/tower.png
 	bumpmap            models/mapobjects/feudal/tower_nm.png
 }
+
+models/mapobjects/feudal/village_houseparts
+{
+    qer_editorimage    models/mapobjects/feudal/village_houseparts.png
+    
+	diffusemap         models/mapobjects/feudal/village_houseparts.png
+	specularmap	    models/mapobjects/feudal/village_houseparts_s.png
+	bumpmap            models/mapobjects/feudal/village_houseparts_nm.png
+}
+
 
 models/mapobjects/feudal/wall1
 {
@@ -390,7 +410,7 @@ models/mapobjects/feudal/windowframe
     qer_editorimage    models/mapobjects/feudal/windowframe.png
     
 	diffusemap         models/mapobjects/feudal/windowframe.png
-	specularmap	    models/mapobjects/feudal/NULL_nm.png
-	bumpmap            models/mapobjects/feudal/windowframe.png
+	specularmap	    models/mapobjects/feudal/windowframe.png
+	bumpmap            models/mapobjects/feudal/NULL_nm.png
 }
 
