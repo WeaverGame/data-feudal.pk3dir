@@ -45,6 +45,7 @@ models/mapobjects/feudal/baseglass
 models/mapobjects/feudal/basewall1a
 {
     qer_editorimage    models/mapobjects/feudal/basewall1a.png
+	xmap_lightmapSampleOffset 4
     
 	diffusemap        models/mapobjects/feudal/basewall1a.png
 	specularmap	    	models/mapobjects/feudal/basewall1a_s.png
@@ -134,6 +135,7 @@ models/mapobjects/feudal/cas_trim
 models/mapobjects/feudal/ceilarch1
 {
     qer_editorimage    models/mapobjects/feudal/ceilarch1.png
+	xmap_lightmapSampleOffset 4
     
 	diffusemap         models/mapobjects/feudal/ceilarch1.png
 	specularmap	    	models/mapobjects/feudal/ceilarch1_s.png
