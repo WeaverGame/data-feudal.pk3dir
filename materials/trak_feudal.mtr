@@ -27,7 +27,7 @@ models/mapobjects/feudal/arch
 models/mapobjects/feudal/baseglass
 {
 	qer_editorImage		models/mapobjects/feudal/baseglass.png
-	xmap_surfaceLight	8000
+	xmap_surfaceLight	2500
 	xmap_lightSubdivide	16
 	xmap_lightImage		models/mapobjects/feudal/baseglass_blend.png
 	xmap_lightRGB 0.8 0.9 1
@@ -186,6 +186,14 @@ models/mapobjects/feudal/floorboards
 	bumpmap            models/mapobjects/feudal/floorboards_nm.png
 }
 
+models/mapobjects/feudal/fountain_small1
+{
+    qer_editorimage    models/mapobjects/feudal/fountain_small1.png
+    
+	diffusemap         models/mapobjects/feudal/fountain_small1.png
+	specularmap	    	models/mapobjects/feudal/fountain_small1_s.png
+	bumpmap            models/mapobjects/feudal/fountain_small1_nm.png
+}
 
 models/mapobjects/feudal/gen_strip1
 {
@@ -275,6 +283,16 @@ models/mapobjects/feudal/pillar1
 	specularmap	    	models/mapobjects/feudal/pillar1_s.png
 	bumpmap            models/mapobjects/feudal/pillar1_nm.png
 }
+
+models/mapobjects/feudal/pillar1a
+{
+    qer_editorimage    models/mapobjects/feudal/pillar1a.png
+    
+	diffusemap         models/mapobjects/feudal/pillar1a.png
+	specularmap	    	models/mapobjects/feudal/pillar1a_s.png
+	bumpmap            models/mapobjects/feudal/pillar1a_nm.png
+}
+
 
 models/mapobjects/feudal/plaster
 {
