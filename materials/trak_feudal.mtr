@@ -151,6 +151,16 @@ models/mapobjects/feudal/citywall_door
 	bumpmap            models/mapobjects/feudal/citywall_door_nm.png
 }
 
+// I'm not sure why its looking in textures/, figure that out and delete this later
+textures/models/mapobjects/feudal/citywall_door
+{
+    qer_editorimage    models/mapobjects/feudal/citywall_door.png
+    
+	diffusemap         models/mapobjects/feudal/citywall_door.png
+	specularmap	    	models/mapobjects/feudal/citywall_door_s.png
+	bumpmap            models/mapobjects/feudal/citywall_door_nm.png
+}
+
 models/mapobjects/feudal/cofferedceil1
 {
     qer_editorimage    models/mapobjects/feudal/cofferedceil1.png
