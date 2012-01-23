@@ -358,6 +358,28 @@ models/mapobjects/feudal/village_houseparts
 }
 
 
+models/mapobjects/feudal/village_wall_lamp
+{
+	qer_editorImage		models/mapobjects/feudal/village_wall_lamp
+	xmap_surfaceLight	120000
+	xmap_lightSubdivide	16
+	xmap_lightImage		models/mapobjects/feudal/village_wall_lamp_blend.png
+	xmap_lightRGB 1 0.9 0.8
+	
+
+	
+	diffusemap         models/mapobjects/feudal/village_wall_lamp.png
+	specularmap	    models/mapobjects/feudal/village_wall_lamp_s.png
+	bumpmap            models/mapobjects/feudal/village_wall_lamp_nm.png
+	{
+		stage		glowMap
+		map		models/mapobjects/feudal/village_wall_lamp_blend.png
+		blend		add
+	}
+	
+}
+
+
 models/mapobjects/feudal/wall1
 {
     qer_editorimage    models/mapobjects/feudal/wall1.png
