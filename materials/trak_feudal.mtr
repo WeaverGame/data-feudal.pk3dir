@@ -70,13 +70,15 @@ models/mapobjects/feudal/basewall1c
 	bumpmap            models/mapobjects/feudal/basewall1c_nm.png
 }
 
+//Temporary quick fix for bow_block, clean up later
+
 models/mapobjects/feudal/basewall1d
 {
-    qer_editorimage    models/mapobjects/feudal/basewall1d.png
+    qer_editorimage    models/mapobjects/castle/bricks1
     
-	diffusemap         models/mapobjects/feudal/basewall1d.png
-	specularmap	    	models/mapobjects/feudal/basewall1d_s.png
-	bumpmap            models/mapobjects/feudal/basewall1d_nm.png
+	diffusemap         models/mapobjects/castle/bricks1.png
+	specularmap	    	models/mapobjects/castle/bricks1_s.png
+	bumpmap            models/mapobjects/castle/bricks1_nm.png
 }
 
 models/mapobjects/feudal/beam
