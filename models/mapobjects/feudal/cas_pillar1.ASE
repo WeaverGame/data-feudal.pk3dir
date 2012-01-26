@@ -1,5 +1,5 @@
 *3DSMAX_ASCIIEXPORT	200
-*COMMENT "AsciiExport Version  2.00 - Sat May 08 10:32:01 2010"
+*COMMENT "AsciiExport Version  2.00 - Tue Jan 24 13:36:51 2012"
 *SCENE {
 	*SCENE_FILENAME "castle_modular1a.max"
 	*SCENE_FIRSTFRAME 0
@@ -12,7 +12,7 @@
 *MATERIAL_LIST {
 	*MATERIAL_COUNT 6
 	*MATERIAL 0 {
-		*MATERIAL_NAME "models/mapobjects/feudal/basewall1d"
+		*MATERIAL_NAME "models/mapobjects/castle/bricks1"
 		*MATERIAL_CLASS "Standard"
 		*MATERIAL_AMBIENT 0.5882	0.5882	0.5882
 		*MATERIAL_DIFFUSE 0.5882	0.5882	0.5882
@@ -27,11 +27,11 @@
 		*MATERIAL_FALLOFF In
 		*MATERIAL_XP_TYPE Filter
 		*MAP_DIFFUSE {
-			*MAP_NAME "models/mapobjects/feudal/basewall1d"
+			*MAP_NAME "Map #7"
 			*MAP_CLASS "Bitmap"
 			*MAP_SUBNO 1
 			*MAP_AMOUNT 1.0000
-			*BITMAP "E:\weaver\base\models\mapobjects\feudal\basewall1d.png"
+			*BITMAP "E:\weaver\base\models\mapobjects\castle\bricks1.png"
 			*MAP_TYPE Screen
 			*UVW_U_OFFSET 0.0000
 			*UVW_V_OFFSET 0.0000
@@ -2498,12 +2498,12 @@
 		}
 		*MESH_NUMTVERTEX 6
 		*MESH_TVERTLIST {
-			*MESH_TVERT 0	0.5122	-0.5621	0.0000
-			*MESH_TVERT 1	0.5122	1.5530	0.0000
-			*MESH_TVERT 2	0.1823	1.5530	0.0000
-			*MESH_TVERT 3	0.1823	-0.5621	0.0000
-			*MESH_TVERT 4	0.8420	1.5530	0.0000
-			*MESH_TVERT 5	0.8420	-0.5621	0.0000
+			*MESH_TVERT 0	0.4982	-1.1159	0.0000
+			*MESH_TVERT 1	0.4982	2.1067	0.0000
+			*MESH_TVERT 2	0.0007	2.1067	0.0000
+			*MESH_TVERT 3	0.0007	-1.1159	0.0000
+			*MESH_TVERT 4	1.0000	2.1067	0.0000
+			*MESH_TVERT 5	1.0001	-1.1159	0.0000
 		}
 		*MESH_NUMTVFACES 8
 		*MESH_TFACELIST {
